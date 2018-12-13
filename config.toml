@@ -1,4 +1,4 @@
 baseURL = "https://52projects52weeks.com/"
 languageCode = "en-us"
 title = "52 Projects 52 Weeks"
-theme = "gohugo-theme-ananke"
+theme = "hyde"
